@@ -1,7 +1,8 @@
 Rarjpeg finder
 ==============
+
 Base script by S0Ulle33
---------------
+
 
 **Rarjpeg finder** is a small console script to work with Rarjpegs.
 
